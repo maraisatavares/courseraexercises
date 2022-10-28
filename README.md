@@ -1,2 +1,2 @@
 # courseraexercises
-Pasta para todos os exercícios do Coursera
+Pasta para o primeiro exercício do Coursera
